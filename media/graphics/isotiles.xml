@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:9460d398b8044fb50bed074c9d0337ee$ -->
+<TextureAtlas imagePath="isotiles.png">
+    <SubTexture name="blue castle" x="1" y="1" width="205" height="275"/>
+    <SubTexture name="flag blue" x="183" y="283" width="49" height="71" frameX="-19" frameY="0" frameWidth="79" frameHeight="73"/>
+    <SubTexture name="flag green" x="123" y="407" width="49" height="71" frameX="-19" frameY="0" frameWidth="79" frameHeight="73"/>
+    <SubTexture name="green castle" x="207" y="1" width="205" height="267" frameX="0" frameY="0" frameWidth="205" frameHeight="275"/>
+    <SubTexture name="nonwalk0001" x="69" y="411" width="53" height="84" frameX="-4" frameY="-2" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk00010" x="123" y="479" width="38" height="30" frameX="-37" frameY="-17" frameWidth="112" frameHeight="58"/>
+    <SubTexture name="nonwalk00011" x="208" y="355" width="64" height="50" frameX="-21" frameY="0" frameWidth="112" frameHeight="58"/>
+    <SubTexture name="nonwalk00012" x="1" y="283" width="75" height="127" frameX="0" frameY="0" frameWidth="79" frameHeight="129"/>
+    <SubTexture name="nonwalk00013" x="413" y="1" width="98" height="117" frameX="-4" frameY="-14" frameWidth="112" frameHeight="139"/>
+    <SubTexture name="nonwalk0002" x="131" y="283" width="51" height="76" frameX="-3" frameY="-8" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0003" x="77" y="283" width="53" height="82" frameX="-6" frameY="-8" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0004" x="1" y="411" width="67" height="90"/>
+    <SubTexture name="nonwalk0005" x="240" y="406" width="59" height="54" frameX="-3" frameY="-35" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0006" x="233" y="283" width="49" height="46" frameX="-9" frameY="-41" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0007" x="158" y="360" width="49" height="46" frameX="-9" frameY="-41" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0008" x="254" y="461" width="61" height="50" frameX="-5" frameY="-38" frameWidth="67" frameHeight="90"/>
+    <SubTexture name="nonwalk0009" x="173" y="407" width="66" height="58" frameX="-21" frameY="0" frameWidth="112" frameHeight="58"/>
+    <SubTexture name="tiles0001" x="173" y="466" width="80" height="40"/>
+    <SubTexture name="tiles0002" x="77" y="366" width="80" height="40"/>
+    <SubTexture name="tiles0003" x="413" y="242" width="80" height="40"/>
+    <SubTexture name="tiles0004" x="413" y="201" width="80" height="40"/>
+    <SubTexture name="tiles0005" x="413" y="160" width="80" height="40"/>
+    <SubTexture name="tiles0006" x="413" y="119" width="80" height="40"/>
+</TextureAtlas>
